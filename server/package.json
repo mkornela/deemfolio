@@ -1,0 +1,20 @@
+{
+  "name": "deemfolio-server",
+  "version": "2.0.0",
+  "description": "Express static server + Twitch proxy for deemfolio",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "deemfolio": "file:..",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+export const DISCORD_USER_ID = import.meta.env.VITE_DISCORD_USER_ID || '852604404128940152';
