@@ -6,8 +6,6 @@
 
 > **Personal portfolio & system dashboard** — interactive 3D experience built with React, TypeScript, Three.js, and Framer Motion. Deployed with an Express backend for real-time Discord presence, Twitch status polling, and server monitoring.
 
-![Preview](https://me.deem.my/preview.png)
-
 ---
 
 ## Overview
